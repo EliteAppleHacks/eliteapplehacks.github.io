@@ -1,9 +1,9 @@
-Package: com.eliteapplehacks.symbolab++
+Package: com.eliteapplehacks.symbolabPLUS
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: EAH <iapplepromail@gmail.com>
 Depends: mobilesubstrate
-Filename: debs/Symbolab++.deb
+Filename: debs/symbolabPLUS.deb
 Size: 2952
 MD5sum: 1959f513d96f70d28098288173ec31fd
 SHA1: 9a2bed97688dd608aa99fe39a0bfe8b108ec8112
