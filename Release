@@ -1,0 +1,9 @@
+Origin: EliteAppleHacks' Repo
+Label: EliteAppleHacks' Repo
+Suite: stable
+Version: 1.0
+Codename: Decimation
+Architectures: iphoneos-arm
+Components: main
+Description: EliteAppleHacks' Repo
+MD5Sum:
