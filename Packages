@@ -5,9 +5,9 @@ Maintainer: EAH <iapplepromail@gmail.com>
 Depends: mobilesubstrate
 Filename: debs/symbolabPLUS.deb
 Size: 2952
-MD5sum: 1959f513d96f70d28098288173ec31fd
-SHA1: 9a2bed97688dd608aa99fe39a0bfe8b108ec8112
-SHA256: 88918d29e6d77213f25e1ac3b602eec9d987710dc76e735f0272deb0e5b23ab5
+MD5sum: b109d625be7f6d6b5a619d2724620815
+SHA1: 03ce7988f340f34c97f553d412c04ace0f37d29b
+SHA256: f9eee20bc5b0a8ecfc0dfcec176c0eb2ec3319a5b8b1d22a74d7d3f5b6148a4e
 Section: Tweaks
 Description: Premium for a cheaper cost ;)
 Author: EAH <iapplepromail@gmail.com>
