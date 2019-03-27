@@ -1,15 +1,15 @@
-Package: com.eliteapplehacks.symbolabPLUS
+Package: com.eliteapplehacks.symbolabpremium
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: EAH <iapplepromail@gmail.com>
 Depends: mobilesubstrate
-Filename: debs/symbolabPLUS.deb
-Size: 2952
-MD5sum: b109d625be7f6d6b5a619d2724620815
-SHA1: 03ce7988f340f34c97f553d412c04ace0f37d29b
-SHA256: f9eee20bc5b0a8ecfc0dfcec176c0eb2ec3319a5b8b1d22a74d7d3f5b6148a4e
+Filename: debs/SymbolabPremium.deb
+Size: 2950
+MD5sum: 0debe7fef87e300ee2c6592fd4bca954
+SHA1: 9ae410ca2cb72504a1b6ad89f25d512e6e0a2fc3
+SHA256: 77ec0026cd2e2200d890f3abadf2f9ccac701ea1658f029a4bcc4d5e73a08a79
 Section: Tweaks
 Description: Premium for a cheaper cost ;)
 Author: EAH <iapplepromail@gmail.com>
 Depiction: https://eliteapplehacks.github.io/depictions/com.eliteapplehacks.symbolab++.html
-Name: Symbolab ++
+Name: Symbolab Premium
