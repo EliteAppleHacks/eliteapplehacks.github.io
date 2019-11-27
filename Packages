@@ -11,6 +11,7 @@ SHA256: 77ec0026cd2e2200d890f3abadf2f9ccac701ea1658f029a4bcc4d5e73a08a79
 Section: Tweaks
 Description: Premium for a cheaper cost ;)
 Author: EAH <iapplepromail@gmail.com>
+Depiction: http://eliteapplehacks.github.io/Depictions/SymbolabPremium/index.html
 Name: Symbolab Premium
 
 Package: com.yourcompany.popup
@@ -18,7 +19,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: EAH <iapplepromail@gmail.com>
 Depends: mobilesubstrate
-Filename: debs/Scom.yourcompany.popup_0.0.1-8+debug_iphoneos-arm.deb
+Filename: debs/Useless.deb
 Size: 3604
 MD5sum: 115a74eb6a1dfa48f1fd727057cc123d
 SHA1: c67e6912b9d1f1f277feeaf5cca81e5d60a950c3
@@ -26,4 +27,4 @@ SHA256: f52fc225bbd589838e678a44a67c8e802d464c55a28dfaa1013093c8c59a5ca9
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: EAH <iapplepromail@gmail.com>
-Name: popUp
+Name: A useless tweak
